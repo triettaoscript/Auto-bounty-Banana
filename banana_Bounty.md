@@ -5,7 +5,7 @@ getgenv().Setting = {
         ["Url Webhook"] = "", --Your Url
     },
     ["Misc"] = {
-        ["AutoBuyRandomandStoreFruit"] = false,
+        ["AutoBuyRandomandStoreFruit"] = true,
         ["AutoBuySurprise"] = true,
     },
     ["Click"] = {
@@ -21,7 +21,7 @@ getgenv().Setting = {
         ["Teleport Y"] = 1000
     },
     ["Race V4"] = {
-        ["Enable"] = false,
+        ["Enable"] = true,
     },
     ["Invisible"] = true,
     ["White Screen"]  =false,
